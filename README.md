@@ -1,2 +1,3 @@
 # hello-world
-New ro this
+New to this
+Fixed spelling error
